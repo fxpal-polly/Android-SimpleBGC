@@ -3,7 +3,7 @@ Android-SimpleBGC
 
 Copyright (c) 2014,
 All rights reserved.
-Authors: Patrick Proppe and Sven Kratz, FX Palo Alto Laboratory, Inc.
+Authors: Patrick Proppe and Sven Kratz, [FX Palo Alto Laboratory, Inc.](http://www.fxpal.com)
 Contact: oss@fxpal.com
 
 ## 0. License: 
