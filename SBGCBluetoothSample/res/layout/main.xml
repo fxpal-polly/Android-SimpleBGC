@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="fill_horizontal"
+    android:columnCount="1"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/default_text"
+        android:textColor="#f00" />
+
+    <TextView
+        android:id="@+id/yawText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:maxWidth="200dp"
+        android:text="Yaw"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:width="300dp" />
+
+    <SeekBar
+        android:id="@+id/yawSeekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="360"
+        android:progress="180" />
+
+    <TextView
+        android:id="@+id/pitchText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:maxWidth="200dp"
+        android:text="Pitch"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:width="300dp" />
+
+    <SeekBar
+        android:id="@+id/pitchSeekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50" />
+
+</LinearLayout>

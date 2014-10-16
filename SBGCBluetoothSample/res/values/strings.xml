@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SBGC Sample</string>
+    <string name="default_text">Trying to connect to a paired ALEXMOS...</string>
+    <string name="alexmos_status">ALEXMOS not available!</string>
+
+</resources>
