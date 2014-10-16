@@ -3,7 +3,7 @@ Android-SimpleBGC
 
 Copyright (c) 2014,
 All rights reserved.
-Author: Patrick Proppe, FX Palo Alto Laboratory, Inc.
+Authors: Patrick Proppe and Sven Kratz, FX Palo Alto Laboratory, Inc.
 Contact: oss@fxpal.com
 
 ## 0. License: 
@@ -35,7 +35,7 @@ Android SimpleBGC Serial Protocol Sample requires:
 
 ## 3. Getting Android SimpleBGC Serial Protocol Sample:
 Source code is available on github:
-https://github.com/XXXXXXXXX
+https://github.com/fxpal-polly/Android-SimpleBGC
 
 ## 4. Build Instructions:
 We used Android Developer Tools v22. 
