@@ -34,18 +34,18 @@ Android SimpleBGC Serial Protocol Sample requires:
 	
 
 ## 3 Getting Android SimpleBGC Serial Protocol Sample:
-    Source code is available on github:
-    https://github.com/XXXXXXXXX
+Source code is available on github:
+https://github.com/XXXXXXXXX
 
 ## 4 Build Instructions:
-    We used Android Developer Tools v22. 
-    Import as existing Android code into your workspace.	 
+We used Android Developer Tools v22. 
+Import as existing Android code into your workspace.	 
 
 ## 5 Known Issues:
-    Not all Serial Commands are implemented.
-    The code might contain bugs.
+Not all Serial Commands are implemented.
+The code might contain bugs.
 
 ## 6 Frequently asked questions:
-    - Will it work with the 32BIT Boards too? 
+- Will it work with the 32BIT Boards too? 
 	Most likely, but we did not test it and it might contain more 32BIT specific bugs.
         Use at your own risk!
