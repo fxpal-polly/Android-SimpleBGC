@@ -47,5 +47,4 @@ The code might contain bugs.
 
 ## 6 Frequently asked questions:
 - Will it work with the 32BIT Boards too? 
-	Most likely, but we did not test it and it might contain more 32BIT specific bugs.
-        Use at your own risk!
+-- Most likely, but we did not test it and it might contain more 32BIT specific bugs. Use at your own risk!
