@@ -8,7 +8,7 @@ Contact: oss@fxpal.com
 
 ## 0. License: 
 Android SimpleBGC Serial Protocol Sample is released under the New BSD license. Specific
-licensing terms are described in the License.rtf file. This license
+licensing terms are described in the LICENSE.txt file. This license
 agreement applies to the entire SimpleBGC Serial Protocol Android Sample.
 
 ## 1. Introduction:
@@ -28,6 +28,7 @@ Feel free to fork and improve this project according to its license.
     
 ## 2. System Requirements:
 Android SimpleBGC Serial Protocol Sample requires:
+
 1. Android OS 4.0 or higher.
 2. 8BIT SimpleBGC Board http://www.basecamelectronics.com/simplebgc/
 3. Alexmos 8BIT Bluetooth Module
