@@ -1,5 +1,6 @@
-Author : Patrick Proppe, FX Palo Alto Laboratory, Inc.
+FX Palo Alto Laboratory, Inc.
 Copyright 2014.  All rights reserved.
+Authors : Patrick Proppe and Sven Kratz
 
 1. Definition
 
