@@ -1,6 +1,6 @@
-FX Palo Alto Laboratory, Inc.
-Copyright 2014.  All rights reserved.
-Authors : Patrick Proppe and Sven Kratz
+
+Copyright 2014, Patrick Proppe and Sven Kratz, FX Palo Alto Laboratory, Inc. 
+All rights reserved.
 
 1. Definition
 
