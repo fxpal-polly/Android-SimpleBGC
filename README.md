@@ -9,7 +9,7 @@ Contact: oss@fxpal.com
 
 ## 0. License: 
 Android SimpleBGC Serial Protocol Sample is released under the New BSD license. Specific
-licensing terms are described in the [LICENSE.txt](license.txt) file. This license
+licensing terms are described in the [LICENSE.txt](LICENSE.txt) file. This license
 agreement applies to the entire SimpleBGC Serial Protocol Android Sample.
 
 ## 1. Introduction:
